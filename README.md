@@ -36,8 +36,7 @@ Usual default freecol installs:
 
 * Windows: C:/program files/freecol/
 * Linux: /usr/share/games/freecol/
-* (Don't know about mac sorry)
-
+* Mac: /Applications/freecol/data/mods
 ### Version 1.02
 
 * Fixed the Native Converts not showing up by suppling the default brave,pioneer,etc images to graphics mod. (Had thought it would fall to default stuff but guess not).
